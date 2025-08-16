@@ -2,7 +2,7 @@
 
 **Uncovering Key Metrics Across Finance, Sales, Marketing, and Supply Chain**  
 
-[🔗 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDc2NDI2ZDMtYzI1YS00NWM1LTg0YmQtYTRkMzUzMjIxNTY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[🔗 Live Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMDc2NDI2ZDMtYzI1YS00NWM1LTg0YmQtYTRkMzUzMjIxNTY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiZmUzZTUzY2QtYmUzMS00NmVjLWFlNjktYjMwZjIyMTBmNzM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ---
 
